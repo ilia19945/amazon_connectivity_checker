@@ -14,11 +14,11 @@ To run the script:
 3. create a new folder
 4. move all files and cd to folder
 5. create and activate venv 
-  win:
-    # being in the destination folder
-    >>>python -m -venv venv
-    >>>venv\Scripts\activate
-6. >>>pip install import grequests
+  win (being in the destination folder):
+    > python -m -venv venv
+    > venv\Scripts\activate
+6. enter command 
+  > pip install grequests
 7. open runme.bat
 8. edit paths to activate venv and to connectivity_test.py file if needed
 9. doubleclick on runme.bat to run the script continuosly on cmd
